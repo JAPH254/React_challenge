@@ -1,7 +1,49 @@
 .header{
-    color: darkblue;
+    color: rgb(2, 2, 32);
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 30px;
-    width: 800px;
+    width: 50%;
+    
+    
+    
+    
+}
+.Blog{
+    color:rgb(4, 4, 19);
+    width: 70%;
+    font-size: 20px;
+}
+.control{
+    background-image: url(pics/1176.jpg);
+}
+.right{
+    background-image: url(pics/4002676.jpg);
+    width:500px;
+    height: auto;
+    border-radius: 20px;
+    display: column;
+    justify-items: center;
+    color: white;
+    font-weight: bold;
+}
+.body{
+    display: flex;
+    
+}
+.footer{
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(7, 1, 37);
+}
+.mini{
+    font-size: 50px;
+    color: rgb(9, 9, 250);
+}
+.topics{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.last{
+    color: rgb(7, 143, 143);
 }
