@@ -35,6 +35,7 @@
     font-style: italic;
     font-weight: bold;
     color: rgb(7, 1, 37);
+    display: flex;
 }
 .mini{
     font-size: 50px;
@@ -46,4 +47,10 @@
 }
 .last{
     color: rgb(7, 143, 143);
+}
+.footernote{
+    display: flex;
+}
+.para{
+    width: 30%;
 }
